@@ -1,0 +1,10 @@
+name: RandomBox
+main: kr.hjkim.randombox.RandomBox
+version: 1.0
+api-version: 1.19
+depend:
+  - KimLibrary
+commands:
+  랜덤박스:
+    aliases:
+      - randombox
